@@ -9,7 +9,7 @@ public class view {
 //This class displays the program
 	private Order _ord;
 	private MasterOrder _mas;
-// This method is creates the store
+// This method creates the store
 	public String generateStore() {
 		
 		String msg = "What do you want to do";

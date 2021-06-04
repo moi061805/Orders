@@ -1,6 +1,7 @@
 package Store;
 
 public class Order {
+	//This class creates an order with the products, the buyer, and the amount.
 	private String product;
 	private String buyer;
 	private int amount;
